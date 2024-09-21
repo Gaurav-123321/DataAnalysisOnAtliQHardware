@@ -1,4 +1,6 @@
 ## DataAnalysisOnAtliQHardware
+
+Explore the simple, clean and easy to view dashboard here: https://gaurav-123321.github.io/DataAnalysisOnAtliQHardware/ 
 This Tableau dashboard presents key metrics and insights into the sales and revenue performance of AtliQ Hardware, a provider of hardware solutions for cryptocurrency and blockchain industries. It highlights the total revenue, sales quantity, revenue breakdown by year, markets, top customers, and products. The analysis spans various geographic markets and covers revenue from the year 2020.
 
 # Key Metrics:
